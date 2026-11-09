@@ -1,0 +1,7 @@
+{
+  "name": "Pro Era Plumbing Inc.",
+  "description": "Toronto & GTA's premier plumbing contractor specializing in custom homes, luxury renovations, and precision residential plumbing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
